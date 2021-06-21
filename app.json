@@ -1,0 +1,46 @@
+{
+  "id": "8b0276dc-61f8-41b0-9b99-597fabffe3e5",
+  "name": "Purchase Invoice",
+  "publisher": "Navneet",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+   
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "188d8398-50fb-4f2d-8b10-5b92d2896d84",
+      "name": "Purchase Request",
+      "publisher": "Navneet",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "492f3b7e-638a-4b56-9ddf-fa46d85a0da6",
+      "name": "Purchase Order",
+      "publisher": "Navneet",
+      "version": "1.0.0.0"
+    }
+   
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50130,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://PurchaseInvoice.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
